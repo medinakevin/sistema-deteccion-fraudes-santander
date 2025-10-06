@@ -22,26 +22,27 @@ Desarrollar un sistema integral de detección de fraudes en transacciones digita
 ---
 
 ## 📁 **Estructura del Proyecto**
+sistema-deteccion-fraudes-santander/
+├── 📊 data/ # Datasets y datos procesados
+│ ├── raw/ # Datos originales
+│ └── processed/ # Datos limpios y preparados
+├── 📓 notebooks/ # Análisis y modelos en Jupyter
+│ ├── 01_analisis_exploratorio.ipynb
+│ ├── 02_modelo_machine_learning.ipynb
+│ └── 03_demo_interactivo.ipynb
+├── 🖥️ src/ # Código fuente del sistema
+│ ├── database/ # Scripts de bases de datos
+│ ├── models/ # Modelos de machine learning
+│ └── utils/ # Utilidades y visualizaciones
+├── 📚 docs/ # Documentación y reportes
+│ ├── reporte_tecnico.md
+│ ├── pitch_proyecto.md
+│ └── presentacion/
+└── 📄 README.md # Este archivo
+
+text
 
 ---
-
-sistema-deteccion-fraudes-santander/
-├── 📊 data/                    # Datasets y datos procesados
-│   ├── raw/                   # Datos originales
-│   └── processed/             # Datos limpios y preparados
-├── 📓 notebooks/              # Análisis y modelos en Jupyter
-│   ├── 01_analisis_exploratorio.ipynb
-│   ├── 02_modelo_machine_learning.ipynb
-│   └── 03_demo_interactivo.ipynb
-├── 🖥️ src/                    # Código fuente del sistema
-│   ├── database/              # Scripts de bases de datos
-│   ├── models/                # Modelos de machine learning
-│   └── utils/                 # Utilidades y visualizaciones
-├── 📚 docs/                   # Documentación y reportes
-│   ├── reporte_tecnico.md
-│   ├── pitch_proyecto.md
-│   └── presentacion/
-└── 📄 README.md               # Este archivo
 
 ## 🛠️ **Tecnologías Utilizadas**
 
@@ -80,3 +81,96 @@ cd sistema-deteccion-fraudes-santander
 
 # 3. Ejecutar el notebook principal
 jupyter notebook notebooks/03_demo_interactivo.ipynb
+Para Desarrolladores:
+bash
+# Instalar dependencias (próximamente)
+pip install -r requirements.txt
+
+# Ejecutar scripts específicos
+python src/models/entrenamiento.py
+📈 Metodología de Trabajo
+🔬 Enfoque Multidisciplinario
+Aprendizaje de Máquinas: Modelos predictivos para detección de patrones
+
+Big Data: Arquitectura escalable para procesamiento en tiempo real
+
+Operaciones: Optimización de recursos y procesos
+
+Comunicación: Estrategias para gestión de crisis reputacional
+
+🔄 Flujo de Desarrollo
+Análisis Exploratorio - Entendimiento de datos
+
+Preprocesamiento - Limpieza y transformación
+
+Modelado - Entrenamiento de algoritmos
+
+Validación - Evaluación de resultados
+
+Implementación - Demo interactivo
+
+Documentación - Reporte técnico y pitch
+
+🎯 Entregables Principales
+📋 Documentación
+Reporte técnico completo
+
+Pitch ejecutivo
+
+Presentación final
+
+Manual de usuario
+
+💻 Demo Técnico
+Sistema de detección en tiempo real
+
+Modelo de ML entrenado
+
+Visualizaciones interactivas
+
+Análisis de resultados
+
+📊 Métricas de Éxito
+Recall > 85% - Detección efectiva de fraudes
+
+Falsos positivos < 5% - Minimizar molestias a clientes
+
+Tiempo respuesta < 3s - Procesamiento en tiempo real
+
+📞 Contacto & Colaboración
+🤝 Para Colaborar:
+Fork este repositorio
+
+Crea una rama para tu feature (git checkout -b feature/nuevaFuncionalidad)
+
+Commit tus cambios (git commit -m 'Agrega nueva funcionalidad')
+
+Push a la rama (git push origin feature/nuevaFuncionalidad)
+
+Abre un Pull Request
+
+🐛 Reportar Problemas:
+Abre un Issue en GitHub
+
+Describe detalladamente el problema
+
+Incluye ejemplos si es posible
+
+📜 Licencia
+Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+
+🙏 Agradecimientos
+Universidad Nacional Rosario Castellanos
+
+Docentes del 5to Semestre
+
+Equipo de Desarrollo por su dedicación y colaboración
+
+⭐ ¿Te gusta este proyecto? Dale una estrella en GitHub!
+
+🔄 Estado del Proyecto
+https://img.shields.io/badge/Estado-En%2520Desarrollo-yellow
+https://img.shields.io/badge/Versi%C3%B3n-1.0-blue
+https://img.shields.io/badge/Licencia-MIT-green
+
+Última actualización: Octubre 2024
