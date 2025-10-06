@@ -23,7 +23,23 @@ Desarrollar un sistema integral de detección de fraudes en transacciones digita
 
 ## 📁 **Estructura del Proyecto**
 
----
+sistema-deteccion-fraudes-santander/
+├── 📊 data/                    # Datasets y datos procesados
+│   ├── raw/                   # Datos originales
+│   └── processed/             # Datos limpios y preparados
+├── 📓 notebooks/              # Análisis y modelos en Jupyter
+│   ├── 01_analisis_exploratorio.ipynb
+│   ├── 02_modelo_machine_learning.ipynb
+│   └── 03_demo_interactivo.ipynb
+├── 🖥️ src/                    # Código fuente del sistema
+│   ├── database/              # Scripts de bases de datos
+│   ├── models/                # Modelos de machine learning
+│   └── utils/                 # Utilidades y visualizaciones
+├── 📚 docs/                   # Documentación y reportes
+│   ├── reporte_tecnico.md
+│   ├── pitch_proyecto.md
+│   └── presentacion/
+└── 📄 README.md               # Este archivo
 
 ## 🛠️ **Tecnologías Utilizadas**
 
