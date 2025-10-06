@@ -23,6 +23,8 @@ Desarrollar un sistema integral de detección de fraudes en transacciones digita
 
 ## 📁 **Estructura del Proyecto**
 
+---
+
 sistema-deteccion-fraudes-santander/
 ├── 📊 data/                    # Datasets y datos procesados
 │   ├── raw/                   # Datos originales
