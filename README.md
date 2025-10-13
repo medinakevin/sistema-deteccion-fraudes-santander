@@ -139,3 +139,46 @@ Tiempo respuesta < 3s - Procesamiento en tiempo real
 
 Datasets:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+¿Qué son las columnas V1, V2, V3... V28?
+PCA (Principal Component Analysis) Explicado Simple:
+Imagina que tienes 100 características originales como:
+-Ubicación de la transacción
+-Hora del día
+-Historial del cliente
+-Tipo de comercio
+-Dispositivo usado
+-etc...
+El PCA hace esto:
+-Toma todas esas 100+ características originales
+-Las combina matemáticamente
+-Crea 28 nuevas características (V1-V28) que capturan la información más importante
+-Mantiene la confidencialidad (no sabemos qué representa exactamente cada V)
+
+https://www.kaggle.com/c/ieee-fraud-detection/data
+Ventajas:
+✅ Más reciente (2019 vs 2013)
+✅ Características REALES (no anonimizadas con PCA)
+✅ Datos de identidad (dispositivo, navegador, SO)
+✅ Múltiples tipos de transacciones
+✅ Competencia activa (más documentación)
+
+https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_3_GettingStarted/SimulatedDataset.html
+Ventajas:
+✅ Datos sintéticos pero REALISTAS
+✅ Explicación completa de cada variable
+✅ Diseñado específicamente para detección de fraudes
+✅ Incluye temporalidad y relaciones cliente-transacción
+
+https://www.kaggle.com/datasets/ealaxi/paysim1
+Ideal para: Demostrar capacidades de Big Data
+✅ 6+ millones de transacciones
+✅ Simula operaciones móviles (como app bancaria)
+✅ Múltiples tipos: TRANSFER, CASH_IN, CASH_OUT, etc.
+✅ Datos estructurados claros
+
+📊 Comparativa Rápida
+Dataset	              Ventajas                  	Desventajas	                  Recomendación
+Kaggle Credit Card.   Simple, conocido, rápido.	  Datos anonimizados, antiguo.	Si quieren ir rápido
+IEEE-CIS.	            Real, completo, reciente. 	Más complejo, más grande.	    Si quieren profundidad
+Fraud Handbook.	      Bien documentado, realista. Sintético, menos volumen.	    Si quieren entender bien
+PaySim.	              Gran volumen, móvil.      	Sintético, patrones simples.	Para demostrar Big Data
