@@ -137,40 +137,5 @@ Falsos positivos < 5% - Minimizar molestias a clientes
 
 Tiempo respuesta < 3s - Procesamiento en tiempo real
 
-📞 Contacto & Colaboración
-🤝 Para Colaborar:
-Fork este repositorio
-
-Crea una rama para tu feature (git checkout -b feature/nuevaFuncionalidad)
-
-Commit tus cambios (git commit -m 'Agrega nueva funcionalidad')
-
-Push a la rama (git push origin feature/nuevaFuncionalidad)
-
-Abre un Pull Request
-
-🐛 Reportar Problemas:
-Abre un Issue en GitHub
-
-Describe detalladamente el problema
-
-Incluye ejemplos si es posible
-
-📜 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
-
-🙏 Agradecimientos
-Universidad Nacional Rosario Castellanos
-
-Docentes del 5to Semestre
-
-Equipo de Desarrollo por su dedicación y colaboración
-
-⭐ ¿Te gusta este proyecto? Dale una estrella en GitHub!
-
-🔄 Estado del Proyecto
-https://img.shields.io/badge/Estado-En%2520Desarrollo-yellow
-https://img.shields.io/badge/Versi%C3%B3n-1.0-blue
-https://img.shields.io/badge/Licencia-MIT-green
-
-Última actualización: Octubre 2024
+Datasets:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
