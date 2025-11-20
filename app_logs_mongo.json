@@ -1,0 +1,1902 @@
+[
+    {
+        "_id": "log_63551",
+        "cliente_id": "CTE-25795",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.97",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_94564",
+        "cliente_id": "CTE-10860",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.53",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_11086",
+        "cliente_id": "CTE-48158",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.128",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_88750",
+        "cliente_id": "CTE-54732",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.27",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_21174",
+        "cliente_id": "CTE-21284",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.79",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_94197",
+        "cliente_id": "CTE-16265",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.146",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_52843",
+        "cliente_id": "CTE-26850",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.12",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_83628",
+        "cliente_id": "CTE-47194",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.163",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_86312",
+        "cliente_id": "CTE-31962",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.150",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_30081",
+        "cliente_id": "CTE-57191",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.23",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_87595",
+        "cliente_id": "CTE-54131",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.25",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_32670",
+        "cliente_id": "CTE-26023",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.139",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_54248",
+        "cliente_id": "CTE-51090",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.103",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_79342",
+        "cliente_id": "CTE-11685",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.49",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_69645",
+        "cliente_id": "CTE-10769",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.184",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_65353",
+        "cliente_id": "CTE-12433",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.219",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_11588",
+        "cliente_id": "CTE-15311",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.71",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_35392",
+        "cliente_id": "CTE-47819",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.150",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_14958",
+        "cliente_id": "CTE-49188",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.203",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_59527",
+        "cliente_id": "CTE-27568",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.251",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_28355",
+        "cliente_id": "CTE-29769",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.158",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_90022",
+        "cliente_id": "CTE-38693",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.187",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_83159",
+        "cliente_id": "CTE-16396",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.220",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_18230",
+        "cliente_id": "CTE-37480",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.83",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_92745",
+        "cliente_id": "CTE-51434",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.109",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_99473",
+        "cliente_id": "CTE-35658",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.231",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_15854",
+        "cliente_id": "CTE-28942",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.43",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_40265",
+        "cliente_id": "CTE-28431",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.143",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_93736",
+        "cliente_id": "CTE-12747",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.79",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_13166",
+        "cliente_id": "CTE-10189",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.227",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_47027",
+        "cliente_id": "CTE-29118",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.145",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_33260",
+        "cliente_id": "CTE-45773",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.29",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_62452",
+        "cliente_id": "CTE-11899",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.18",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_55968",
+        "cliente_id": "CTE-11267",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.22",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_78049",
+        "cliente_id": "CTE-41551",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.4",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_45700",
+        "cliente_id": "CTE-21394",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.13",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_70856",
+        "cliente_id": "CTE-13556",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.16",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_48439",
+        "cliente_id": "CTE-13890",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.226",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_32482",
+        "cliente_id": "CTE-51606",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.160",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_76236",
+        "cliente_id": "CTE-40740",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.3",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_92359",
+        "cliente_id": "CTE-24502",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.179",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_83567",
+        "cliente_id": "CTE-31777",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.177",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_47452",
+        "cliente_id": "CTE-20627",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.240",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_12134",
+        "cliente_id": "CTE-18792",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.148",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_37327",
+        "cliente_id": "CTE-53323",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.132",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_20566",
+        "cliente_id": "CTE-53021",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.58",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_38375",
+        "cliente_id": "CTE-18433",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.157",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_66198",
+        "cliente_id": "CTE-53001",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.205",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_22596",
+        "cliente_id": "CTE-21016",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.221",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_16638",
+        "cliente_id": "CTE-33897",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.59",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_84636",
+        "cliente_id": "CTE-12612",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.155",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_90994",
+        "cliente_id": "CTE-33483",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.41",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_37434",
+        "cliente_id": "CTE-58555",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.185",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_39723",
+        "cliente_id": "CTE-27159",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.136",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_87778",
+        "cliente_id": "CTE-54974",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.87",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_56073",
+        "cliente_id": "CTE-50994",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.184",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_20844",
+        "cliente_id": "CTE-24541",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.50",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_27131",
+        "cliente_id": "CTE-45920",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.30",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_58890",
+        "cliente_id": "CTE-36531",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.158",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_67384",
+        "cliente_id": "CTE-11585",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.23",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_25678",
+        "cliente_id": "CTE-13943",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.242",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_16163",
+        "cliente_id": "CTE-33939",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.248",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_91557",
+        "cliente_id": "CTE-29457",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.76",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_68783",
+        "cliente_id": "CTE-11021",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.7",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_60250",
+        "cliente_id": "CTE-21653",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.25",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_55359",
+        "cliente_id": "CTE-53573",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.186",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_83169",
+        "cliente_id": "CTE-23417",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.251",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_67195",
+        "cliente_id": "CTE-50757",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.145",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_77923",
+        "cliente_id": "CTE-19692",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.43",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_21153",
+        "cliente_id": "CTE-55758",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.223",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_56819",
+        "cliente_id": "CTE-16873",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.120",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_30550",
+        "cliente_id": "CTE-15675",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.168",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_59150",
+        "cliente_id": "CTE-10161",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.53",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_58021",
+        "cliente_id": "CTE-47065",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.29",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_12676",
+        "cliente_id": "CTE-36557",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.178",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_70145",
+        "cliente_id": "CTE-43763",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.173",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_34045",
+        "cliente_id": "CTE-42606",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.196",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_87225",
+        "cliente_id": "CTE-21534",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.146",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_38007",
+        "cliente_id": "CTE-39127",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.27",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_25590",
+        "cliente_id": "CTE-50397",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.110",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_44266",
+        "cliente_id": "CTE-35851",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.47",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_73308",
+        "cliente_id": "CTE-11016",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.139",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_71158",
+        "cliente_id": "CTE-34253",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.62",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_15386",
+        "cliente_id": "CTE-34276",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.210",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_11869",
+        "cliente_id": "CTE-33247",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.23",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_52852",
+        "cliente_id": "CTE-34300",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.57",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_17450",
+        "cliente_id": "CTE-18529",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.37",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_21384",
+        "cliente_id": "CTE-27262",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.74",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_51350",
+        "cliente_id": "CTE-19268",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.162",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_79014",
+        "cliente_id": "CTE-31271",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.130",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_24219",
+        "cliente_id": "CTE-22185",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.242",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_68916",
+        "cliente_id": "CTE-31243",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.236",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_57273",
+        "cliente_id": "CTE-49099",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.174",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_80125",
+        "cliente_id": "CTE-18571",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.45",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_38061",
+        "cliente_id": "CTE-49976",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.193",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_81041",
+        "cliente_id": "CTE-48044",
+        "device_info": {
+            "os": "Android 13",
+            "ip": "192.168.1.236",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_32240",
+        "cliente_id": "CTE-59216",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.250",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_53007",
+        "cliente_id": "CTE-58984",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.117",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_11795",
+        "cliente_id": "CTE-50774",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.208",
+            "is_rooted": true
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    },
+    {
+        "_id": "log_21257",
+        "cliente_id": "CTE-12568",
+        "device_info": {
+            "os": "iOS 17",
+            "ip": "192.168.1.247",
+            "is_rooted": false
+        },
+        "session_history": [
+            {
+                "action": "login",
+                "timestamp": "2025-01-01T10:00:00"
+            },
+            {
+                "action": "view_balance",
+                "timestamp": "2025-01-01T10:00:05"
+            }
+        ]
+    }
+]
